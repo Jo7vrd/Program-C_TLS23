@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: Jonathan PROGDAS, Configuration: Debug x64 ------
+1>Jonathan.cpp
+1>C:\AUOK\Jonathan Progdas\Jonathan PROGDAS\Jonathan.cpp(8,5): error C2143: syntax error: missing ';' before 'for'
+1>Done building project "Jonathan PROGDAS.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:50 PM and took 00.665 seconds ==========
